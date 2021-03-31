@@ -1,0 +1,85 @@
+/* area1 */
+.area1 {
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: right;
+}
+	
+.itens1 {
+	width: 350px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.itens1 a {
+	text-decoration: none;
+	font-size: 16px;
+	font-family: helvetica;
+}
+
+/* botão entrar */
+.button1 {
+  font-family: helvetica;
+  background-color: #1a73e8;
+  color: white;
+  padding: auto;
+  text-align: center;
+  font-size: 17px;
+  margin: auto;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+/* area2 */
+.area2 {
+    height: 210px;
+    display: flex;
+    justify-content: center	;
+}
+
+/* area3 */
+.area3 {
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.itens3 {
+	width: 355px;
+    display: flex;
+    justify-content: space-between;
+	
+}
+
+/* area4 */
+.area4 {
+    height: 80px;
+    font-family: helvetica;
+	display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.itens4 {
+	font-family: helvetica;
+    width: 350px;
+    display: flex;
+    justify-content: space-around;
+	text-decoration: none
+}
+
+/* botão fundo */
+.button2 {
+  font-family: helvetica;
+  background-color: #f2f0eb;
+  color: black;
+  padding: 4px;
+  text-align: center;
+  font-size: 16px;
+  margin: 2px;
+  cursor: pointer;
+  border-radius: 8px;
+}
